@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+/* unvisited link */
+a:link {
+  color: green;
+}
+
+/* visited link */
+
+a:visited {
+  color: pink;
+}
+
+
+/* mouse over link */
+a:hover {
+  color: red;
+}
+
+/* selected link */
+a:active {
+  color: yellow;
+} 
+a:{
+  color: yellow;
+} 
